@@ -1,0 +1,17 @@
+#texto {
+    background-color: rgba(9, 9, 22, 0.363);
+}
+#foto {
+    padding: 50px 510px;
+    border-radius: 50%;
+}
+.imagem {
+    background-color: grey;
+}
+#sobre {
+    background-color: rgb(3,15,3);
+}
+h1{
+    color: white;
+}
+
