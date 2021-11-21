@@ -1,10 +1,12 @@
-#texto {
-    background-color: rgba(9, 9, 22, 0.363);
-}
 #foto {
     padding: 50px 510px;
     border-radius: 50%;
 }
+
+#texto {
+    background-color: rgba(9, 9, 22, 0.363);
+}
+
 .imagem {
     background-color: grey;
 }
