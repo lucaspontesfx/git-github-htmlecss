@@ -1,19 +1,26 @@
-#foto {
+.imagem {
+    background-color: grey;
+}
+.foto {
     border: solid;
     border-radius: 50%;
+}
+.meu_nome{
+    font-family: Verdana ;
+    font-size: 40px;
 }
 
 #texto {
     background-color: rgba(9, 9, 22, 0.363);
 }
 
-.imagem {
-    background-color: grey;
-}
-#sobre {
+
+.sobre {
     background-color: rgb(3,15,3);
 }
 h1{
     color: white;
 }
-
+a{
+    text-decoration: line-through;
+}
